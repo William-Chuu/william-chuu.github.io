@@ -1,1 +1,1 @@
-[LIVE](william-chuu.github.io)
+[Check it out here](william-chuu.github.io)
