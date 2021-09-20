@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.29613b46.chunk.css",
-    "main.js": "/static/js/main.60677233.chunk.js",
-    "main.js.map": "/static/js/main.60677233.chunk.js.map",
+    "main.js": "/static/js/main.e08eb191.chunk.js",
+    "main.js.map": "/static/js/main.e08eb191.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7a44c774.js",
     "runtime-main.js.map": "/static/js/runtime-main.7a44c774.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/static/css/2.ae9f1eb3.chunk.css",
@@ -20,18 +20,19 @@
     "static/media/App.css": "/static/media/Handodle-rg38A.93d809eb.ttf",
     "static/media/ME380_2.0b3af652.png": "/static/media/ME380_2.0b3af652.png",
     "static/media/NACIVT 2019.2822430e.jpg": "/static/media/NACIVT 2019.2822430e.jpg",
-    "static/media/Resume IV.a0629406.pdf": "/static/media/Resume IV.a0629406.pdf",
     "static/media/SF.273bc79d.JPG": "/static/media/SF.273bc79d.JPG",
+    "static/media/VY.49af3495.PNG": "/static/media/VY.49af3495.PNG",
     "static/media/WC_Headshot.efeccf64.jpg": "/static/media/WC_Headshot.efeccf64.jpg",
     "static/media/pencil_arrow.901be8bc.png": "/static/media/pencil_arrow.901be8bc.png",
     "static/media/rsz_nba_mockup - Copy.b8e77de0.png": "/static/media/rsz_nba_mockup - Copy.b8e77de0.png",
-    "static/media/tinymile.455ee576.png": "/static/media/tinymile.455ee576.png"
+    "static/media/tinymile.455ee576.png": "/static/media/tinymile.455ee576.png",
+    "static/media/w22chu.82cef45f.pdf": "/static/media/w22chu.82cef45f.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.7a44c774.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.bf2947c9.chunk.js",
     "static/css/main.29613b46.chunk.css",
-    "static/js/main.60677233.chunk.js"
+    "static/js/main.e08eb191.chunk.js"
   ]
 }
